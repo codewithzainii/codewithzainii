@@ -1,23 +1,29 @@
-# Hi, I'm Zainab Bibi
+# Hi, I'm Zainab Bibi 👋
 
-AI undergraduate at Barani Institute of Information Technology (BIIT), focused on machine learning and software quality assurance (SQA).
+Undergraduate studying Artificial Intelligence at Barani Institute of Information Technology. I work on web development, machine learning, and data structures, and I publish my projects on GitHub.
 
-I build ML models and learn to test software so it works reliably.
+## Experience
 
-## What I'm working on
-- Learning test automation with Selenium and pytest
-- Building machine learning projects with Python
-
-## Skills
-**AI/ML:** Python, scikit-learn, pandas, NumPy
-**QA:** Test cases, bug reports, Selenium, Postman, Jira
-**Tools:** SQL, Git, GitHub
+- **Web Development Intern, Reddix Software House** (Rawalpindi, 2.5 months): built a clinic appointment booking website and a hotel booking system.
 
 ## Featured projects
-Projects are coming soon. I'm adding them here as I finish them.
+
+- **[Weather Image Classifier](https://github.com/codewithzainii/weather-classifier):** four-class weather classification (cloudy, rainy, sunny, sunrise) comparing a custom CNN with VGG16 transfer learning.
+- **Clinic Appointment Booking:** web application built during my Reddix internship. Code coming soon.
+- **Hotel Booking System:** web application built during my Reddix internship. Code coming soon.
+- **Customer Churn Prediction:** machine learning project. Code coming soon.
+- **Movie Ticketing System:** data structures project using ArrayList and LinkedList. Code coming soon.
+
+## Skills
+
+- **Web Development:** booking systems, Reddix internship
+- **Machine Learning:** churn prediction, CNN, VGG16 transfer learning
+- **Data Structures:** ArrayList, LinkedList
+- **Languages:** Python, Java, C++, SQL
 
 ## Contact
-- Email: zainimalik8890@gmail.com
-- LinkedIn: [add your LinkedIn link here]
 
-I'm open to AI and software testing internships.
+- Email: zainab.bibiofficial27@gmail.com
+- Portfolio: https://codewithzainii.github.io
+
+Open to internships and opportunities in web development, machine learning, and software engineering.
