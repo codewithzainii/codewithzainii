@@ -23,7 +23,9 @@ Undergraduate studying Artificial Intelligence at Barani Institute of Informatio
 
 ## Contact
 
-- Email: zainab.bibiofficial27@gmail.com
-- Portfolio: https://codewithzainii.github.io
+- Email: [zainab.bibiofficial27@gmail.com](mailto:zainab.bibiofficial27@gmail.com)
+- LinkedIn: [linkedin.com/in/zainab-bibi-1b271841b](https://www.linkedin.com/in/zainab-bibi-1b271841b)
+- Portfolio: [codewithzainii.github.io](https://codewithzainii.github.io)
+- GitHub: [github.com/codewithzainii](https://github.com/codewithzainii)
 
 Open to internships and opportunities in web development, machine learning, and software engineering.
